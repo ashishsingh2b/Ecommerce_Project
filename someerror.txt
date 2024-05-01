@@ -1,0 +1,16 @@
+**if module not fatching data error can be in**
+1.class object name can be Capital
+2.Method issue
+3.form method issue
+
+**if url not linking or working wrong way**
+1.check function name
+2.check url name
+3.check form url syntex {% url 'urlname' %}
+
+**if html file note show in proper way**
+1. check the form div
+2.check the form css or html tags or attributes
+3.
+
+
